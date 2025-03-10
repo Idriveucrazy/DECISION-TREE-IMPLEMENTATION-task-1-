@@ -1,17 +1,17 @@
 # DECISION-TREE-IMPLEMENTATION-task-1-
-COMPANY
+COMPANY : CODETECH IT SOLUTIONS
 
-NAME
+NAME : VED SUHAS KULKARNI
 
-INTERN ID
+INTERN ID : CT04WC71
 
-DOMAIN
+DOMAIN : MACHINE LEARNING
 
-DURATION
+DURATION : 4 WEEKS
 
-MENTOR
+MENTOR : NEELA SANTOSH
 
-DESCRIPTION OF THE TASK:
+DESCRIPTION OF THE TASK :
 
 Decision Tree Model for Drug Classification-
 The objective of this task was to build and visualize a Decision Tree Classifier using the scikit-learn library to classify or predict outcomes based on a given dataset. The dataset contained information about patients, including Age, Sex, Blood Pressure (BP), Cholesterol levels, Sodium-to-Potassium ratio (Na_to_K), and the corresponding drug type prescribed to them.
@@ -35,3 +35,4 @@ Conclusion-
 The Decision Tree model successfully classified the drugs based on patient information with reasonable accuracy. Visualizing the Decision Tree helped understand how different features like Age, BP, Cholesterol, etc. influenced the prediction of a particular drug. This model can be further improved by tuning hyperparameters or deploying it as an interactive web application for real-time predictions.
 
 OUTPUT-
+![Image](https://github.com/user-attachments/assets/ea1dc615-4e55-4184-9c14-eec9eefaef24)
